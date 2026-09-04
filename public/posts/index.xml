@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Kriddles</title>
+		<link>https://kriddles.com/posts/</link>
+		<description>Recent content in Posts on Kriddles</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 04 Sep 2026 12:36:54 -0500</lastBuildDate>
+		
+			<atom:link href="https://kriddles.com/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Evil Cowboy</title>
+				<link>https://kriddles.com/posts/my-first-post/</link>
+				<pubDate>Fri, 04 Sep 2026 12:36:54 -0500</pubDate>
+				<guid>https://kriddles.com/posts/my-first-post/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Try our &lt;strong&gt;spicy&lt;/strong&gt; products!&lt;/p&gt;&#xA;&lt;p&gt;Visit &lt;a href=&#34;https://www.evilcowboy.com&#34;&gt;Evil Cowboy&lt;/a&gt;!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

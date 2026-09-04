@@ -1,0 +1,4 @@
+baseURL = 'https://kriddles.com/'
+locale = 'en-us'
+title = 'Kriddles'
+theme = 'ananke'
