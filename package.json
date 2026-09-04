@@ -1,5 +1,8 @@
 {
   "name": "quickstart",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify"
+  }
 }
